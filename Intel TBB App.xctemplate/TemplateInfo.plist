@@ -92,6 +92,7 @@
 					<dict>
 						<key>main.cpp:include</key>
 						<string>#include &lt;iostream&gt;
+#include &lt;tbb/tbb.h&gt;
 </string>
 						<key>main.cpp:main:content</key>
 						<string>// insert code here...
